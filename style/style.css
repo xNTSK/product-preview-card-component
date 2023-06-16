@@ -52,6 +52,7 @@ body {
   margin: 0;
   line-height: 30rem;
   font-size: 28rem;
+  color: hsl(212deg, 21%, 14%);
 }
 .card .product-info .product-description {
   margin: 18rem 0;
@@ -70,6 +71,7 @@ body {
   text-decoration: line-through;
 }
 .card .product-info .product-add-to-cart {
+  transition: 0.2s;
   width: 100%;
   height: 45rem;
   margin: 15rem 0 25rem;
@@ -82,6 +84,11 @@ body {
   align-items: center;
   font-weight: 700;
   gap: 5rem;
+}
+.card .product-info .product-add-to-cart:hover {
+  cursor: pointer;
+  transition: 0.2s;
+  background-color: hsl(158deg, 36%, 17%);
 }
 
 @media screen and (min-width: 1440px) {
