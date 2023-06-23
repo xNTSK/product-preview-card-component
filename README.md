@@ -1,4 +1,4 @@
-# Link to website preview: https://xntsk.github.io/product-preview-card-component-main/
+# Link to website preview: https://xntsk.github.io/product-preview-card-component/
 
 # Frontend Mentor - Product preview card component
 
